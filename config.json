@@ -2,7 +2,24 @@
   "devMode": "false",
   "advancedMode": "false",
   "language": "en-US",
-  "repository": [
-    "repository-name"
+"repository": [
+    "my-views-counter",
+    "weblibre",
+    "Conteo-cumplea-os",
+    "JavaPracticeHacktoberfest",
+    "wilfredopinom",
+    "CiberSeguridad",
+    "Estacionamiento",
+    "CursoJavaScript",
+    "Saludator",
+    "Piano",
+    "2DAM-Servicios",
+    "PianoClases",
+    "2DAM-AccesoADatos",
+    "tienda",
+    "PROGRAMACION-1DAM",
+    "Resumen_CV",
+    "ReservaAnfiteatro",
+    "AgendaElectronica"
   ]
 }
